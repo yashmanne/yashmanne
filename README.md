@@ -16,10 +16,10 @@ I'm currently a MS Data Science student at the Univeristy of Washington.
 * Basic **C++** & **HTML/CSS**
 
 ### Hobbies
-* 🏀 Part-time hooper & avid fan with a penchant for supporting teams with great ball movement.
-* 🎾 Summertime amateur & free agent aficionado (former Federer fanatic).
-* 📚 Former frenetic reader trying to pair fiction with scientific papers.
-* 🌄 Fair weather hiker purely in it for the views. 
+* 🏀 Part-time hooper & avid fan with a penchant for supporting teams with great ball movement
+* 🎾 Summertime amateur & free agent aficionado (former Federer fanatic)
+* 📚 Former frenetic reader trying to pair fiction with scientific papers
+* 🌄 Fair weather hiker purely in it for the views
 
 ### 🤝 Connect with me!
 * [LinkedIn](https://www.linkedin.com/in/yashwanth-manne/)
