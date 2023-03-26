@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a MS Data Science student at the Univeristy of Washington by way of Michigan State University.
+Please feel free to check out my favorite projects below!
 <!--
 **yashmanne/yashmanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
