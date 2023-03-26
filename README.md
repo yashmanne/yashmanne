@@ -2,6 +2,18 @@
 
 I'm currently a MS Data Science student at the Univeristy of Washington.
 
+### Interests
+* 📜 Natural Language Processing: Knowledge Base Question Answering & Information Retreival
+* 🙈 Computer Vision: Semantic Segmentation
+* ⚙️ Designing & deploying machine learning models.
+
+### Skills
+* Strong Data Wrangling, Data Analysis, Data Modeling, & Data Visualization in Python & R, SQL, C++
+* Strong Statistics Background: Probability, Data Distributions, Hypothesis Testing, Bayesian Analysis 
+* Proficient with ETL and Big Data Analysis in SQL (moderate) and Hadoop (beginner) 
+* Moderate experience with Machine Learning & Deep Learning using Keras, TensorFlow, & PyTorch
+* Interactive dashboarding with Plotly & Tableau
+
 ### Hobbies
 * 🏀 Part-time hooper & avid fan with a penchant for supporting teams with great ball movement.
 * 🎾 Summertime amateur & free agent aficionado (former Federer fanatic).
