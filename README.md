@@ -3,8 +3,8 @@
 I'm currently a MS Data Science student at the Univeristy of Washington.
 
 ### Interests
-* 📜 Natural Language Processing: Knowledge Base Question Answering & Information Retreival
-* 🙈 Computer Vision: Semantic Segmentation & Content-based Image Retreival
+* 📜 Natural Language Processing: Knowledge Base Question Answering & Information Retrieval
+* 🙈 Computer Vision: Semantic Segmentation & Content-based Image Retrieval
 * 💬 Recommendation Systems
 * ⚙️ Designing & deploying machine learning models
 
