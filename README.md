@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Yash Manne!
 
-I'm currently a MS Data Science student at the Univeristy of Washington.
+I'm currently an M.S. Data Science student at the Univeristy of Washington.
 
 ### Interests
 * 📜 Natural Language Processing: Knowledge Base Question Answering & Information Retrieval
